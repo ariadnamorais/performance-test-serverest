@@ -3,6 +3,9 @@
 [![Badge ServeRest](https://img.shields.io/badge/API-ServeRest-green)](https://github.com/ServeRest/ServeRest/)
 [![Generic badge](https://img.shields.io/badge/JMeter-v5.5-green.svg)](https://jmeter.apache.org/usermanual/get-started.html)
 
+<h1>Sobre JMeter</h1>
+A ferramenta é fácil de usar e não exige infraestrutura altamente sofisticada para testes, e é compatível com muitos injetores de carregamento gerenciáveis com um único controlador. Além disso, possui uma GUI de fácil utilização que necessita de menos scripts em comparação com outras ferramentas de teste de performance. Seus gráficos são suficientes para analisar os dados primários relacionados ao carregamento e as estatísticas de utilização de recursos.
+
 <h1>Requisitos do Teste</h1>
 
 - 5 usuários simultâneos
